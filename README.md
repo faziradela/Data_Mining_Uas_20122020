@@ -1,4 +1,4 @@
-# **Prediksi Sirosis Hati Menggunakan Machine Learning**
+# **Prediksi Stroke Menggunakan Machine Learning**
 
 Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengkategorikan Risiko Stroke atau Tidak berdasarkan parameter inputan. Algoritma yang digunakan adalah XGBosst. App ini juga dapat mengenerate visualized report dengan data pasien.
 
